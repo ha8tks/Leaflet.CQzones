@@ -1,4 +1,4 @@
-L.Cqzones = L.LayerGroup.extend({
+L.CQzones = L.LayerGroup.extend({
 		
 	options: {
 		// Line and label color
@@ -159,5 +159,5 @@ L.Cqzones = L.LayerGroup.extend({
 });
 	
 L.cqzones = function (options) {
-	return new L.Cqzones(options);
+	return new L.CQzones(options);
 };
