@@ -18,4 +18,4 @@ L.CQzones({
 }).addTo(map);
 ```
 ### Options
-- **color**: The color of the lines and labels. Default `rgba(255, 0, 0, 0.4)` 
+- **color**: The color of the lines and labels. Default `rgba(255, 0, 255, 0.6)` 
