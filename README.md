@@ -13,7 +13,7 @@ Include the Leaflet.VectorGrid, text-images, cqzones javasript file:
 ```
 After instantiating the map:
 ```bash
-L.CQzones({
+L.cqzones({
 	color : 'rgba(255, 0, 0, 0.4)'
 }).addTo(map);
 ```
